@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlaviusGavriluta
-- 👀 I’m interested in IT
+- 👀 passionate about learning new technologies, I'm looking for an opportunity to contribute to a forward-thinking team where I can further hone my skills.
 - 🌱 I’m currently learning programming at Codecool 
 - 📫 How to reach me:
   * flavius.gavriluta@gmail.com
