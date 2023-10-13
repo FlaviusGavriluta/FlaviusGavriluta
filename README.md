@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @FlaviusGavriluta
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate with Data Scientists, Machine Learning Engineers, and Content creators, and developers ...
-- 📫 How to reach me: LinkedIN
+- 🌱 I’m currently learning programming at Codecool 
+- 📫 How to reach me:
+  * flavius.gavriluta@gmail.com
+  * https://www.linkedin.com/in/flavius-gavriluta-aa3700294/
 
 <!---
 FlaviusGavriluta/FlaviusGavriluta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
